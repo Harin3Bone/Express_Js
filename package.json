@@ -1,0 +1,25 @@
+{
+  "name": "express-crash-course",
+  "version": "1.0.0",
+  "description": "learning development with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harin3Bone/Express_Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harin3Bone/Express_Js/issues"
+  },
+  "homepage": "https://github.com/Harin3Bone/Express_Js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
